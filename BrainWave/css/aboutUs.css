@@ -19,7 +19,7 @@
     position: absolute;
     width: 1483px;
     height: 2689px;
-    top: 2503px;
+    top: 2190px;
     left: 0;
 }
 
@@ -34,8 +34,8 @@
 .about-us .team-block {
     position: absolute;
     width: 1340px;
-    height: 1442px;
-    top: 220px;
+    height: 600px;
+    top: 200px;
     left: 50px;
 }
 
@@ -366,175 +366,44 @@ input[type="submit"]:hover {
 
 .about-us .overlap-5 {
     position: absolute;
-    width: 1335px;
-    height: 824px;
     top: 1663px;
-    left: 65px;
+    left: 132px;
 }
 
 .about-us .overlap-6 {
     position: absolute;
-    width: 1335px;
-    height: 824px;
-    top: 0;
-    left: 0;
-}
-
-.about-us .pics {
-    position: absolute;
-    width: 657px;
-    height: 760px;
-    top: 64px;
-    left: 678px;
-}
-
-.about-us .overlap-7 {
-    position: relative;
-    width: 671px;
-    height: 776px;
-    top: -3px;
-    left: -3px;
-}
-
-.about-us .emb-rcate-en-un {
-    position: absolute;
-    width: 404px;
-    top: 306px;
-    left: 48px;
-    font-family: "Poppins-SemiBold", Helvetica;
-    font-weight: 600;
-    color: #ffffff;
-    font-size: 11px;
-    letter-spacing: 1.1px;
-    line-height: normal;
-}
-
-.about-us .right-column {
-    position: absolute;
-    width: 671px;
-    height: 776px;
-    top: 0;
+    top: -70px;
     left: 0;
 }
 
 .about-us .rectangle-23 {
     position: absolute;
-    width: 310px;
-    height: 100px;
-    top: 102px;
-    left: 817px;
-}
-
-.about-us .rectangle-24 {
-    position: absolute;
-    width: 464px;
-    height: 134px;
-    top: 313px;
-    left: 716px;
-}
-
-.about-us .rectangle-25 {
-    position: absolute;
-    width: 409px;
-    height: 100px;
-    top: 521px;
-    left: 821px;
-}
-
-.about-us .element-de-octubre-dia {
-    position: absolute;
-    width: 438px;
-    top: 108px;
-    left: 839px;
-    font-family: "Poppins-SemiBold", Helvetica;
-    font-weight: 600;
-    color: #000000;
-    font-size: 30px;
-    letter-spacing: 3px;
-    line-height: normal;
-}
-
-.about-us .mentes-en-sinton-a {
-    position: absolute;
-    width: 438px;
-    top: 316px;
-    left: 730px;
-    font-family: "Poppins-SemiBold", Helvetica;
-    font-weight: 600;
-    color: transparent;
-    font-size: 30px;
-    letter-spacing: 3px;
-    line-height: normal;
-}
-
-.about-us .span {
-    color: #000000;
-    letter-spacing: 0.9px;
-}
-
-.about-us .text-wrapper-4 {
-    color: #ffffff;
-    letter-spacing: 0.9px;
-}
-
-.about-us .libera-tu-potencial {
-    position: absolute;
-    width: 445px;
-    top: 527px;
-    left: 833px;
-    font-family: "Poppins-SemiBold", Helvetica;
-    font-weight: 600;
-    color: #000000;
-    font-size: 30px;
-    letter-spacing: 3px;
-    line-height: normal;
-}
-
-.about-us .left-column {
-    position: absolute;
-    width: 680px;
-    height: 414px;
-    top: 0;
-    left: 0;
-}
-
-.about-us .overlap-8 {
-    position: relative;
-    width: 571px;
-    height: 213px;
-    top: 68px;
-}
-
-.about-us .brainwave-descubre {
-    position: absolute;
-    width: 556px;
-    height: 149px;
-    top: 64px;
-    left: 15px;
+    width: 265px;
+    top: 155px;
+    left: 750px;
 }
 
 .about-us .proyectos-brain-wave {
     position: absolute;
-    width: 316px;
+    width: 380px;
     top: 0;
     left: 0;
     font-family: "Poppins-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
     letter-spacing: 2px;
     line-height: normal;
 }
 
 .about-us .boton-primario-about {
-    width: 202px;
+    width: 222px;
     height: 73px;
-    top: 672px;
-    left: 13px;
+    top: 470px;
+    left: 5px;
     border-radius: 13px;
-    border: 4px solid;
-    border-color: #fe8e4f;
+    border: 3px solid #fe8e4f;
     background: linear-gradient(
         180deg,
         rgb(254, 176.26, 85) 0%,
@@ -548,10 +417,10 @@ input[type="submit"]:hover {
 
 .about-us .i-nscribete {
     position: absolute;
+    top:16px;
+    left: 7px;
     width: 202px;
     height: 73px;
-    top: -8px;
-    left: -4px;
     font-family: "Poppins-Black", Helvetica;
     font-weight: 900;
     color: #000000;
@@ -564,12 +433,12 @@ input[type="submit"]:hover {
 .about-us .bienvenido-a-la {
     position: absolute;
     width: 578px;
-    top: 471px;
-    left: 25px;
-    font-family: "Poppins-Bold", Helvetica;
-    font-weight: 700;
+    top: 91px;
+    left: 10px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
     color: #000000;
-    font-size: 12px;
+    font-size: 15px;
     letter-spacing: 1.2px;
     line-height: normal;
 }
@@ -626,7 +495,7 @@ input[type="submit"]:hover {
     width: 132px;
     height: 167px;
     top: 451px;
-    left: 787px;
+    left: 770px;
 }
 
 .about-us .equipo-wrapper {
@@ -648,12 +517,10 @@ input[type="submit"]:hover {
 }
 
 .about-us .persona {
-    width: 132px;
-    left: 0;
+    width: 106px;
+    left: 8px;
     object-fit: cover;
     position: absolute;
-    height: 132px;
-    top: 0;
 }
 
 .about-us .overlap-11 {
@@ -706,9 +573,17 @@ input[type="submit"]:hover {
     line-height: normal;
 }
 
+.about-us .persona-2 {
+    position: relative;
+    width: 106px;
+    height: 100px;
+    left: 275px;
+    top: 5px;
+}
+
 .about-us .persona-3 {
     width: 106px;
-    left: 36px;
+    left: 48px;
     position: absolute;
     height: 102px;
     top: 0;
@@ -717,12 +592,12 @@ input[type="submit"]:hover {
 .about-us .bienvenido-a {
     position: absolute;
     width: 593px;
-    top: 176px;
+    top: 185px;
     left: 764px;
-    font-family: "Poppins-Medium", Helvetica;
+    font-family: "Roboto", Helvetica;
     font-weight: 500;
     color: #000000;
-    font-size: 14px;
+    font-size: 15px;
     letter-spacing: 1.4px;
     line-height: normal;
 }
@@ -749,7 +624,7 @@ input[type="submit"]:hover {
     width: 425px;
     height: 221px;
     top: 100px;
-    left: 150px;
+    left: 132px;
     background-color: white;
 }
 
@@ -761,7 +636,7 @@ input[type="submit"]:hover {
     left: 30px;
 }
 
-.about-us .persona-2 {
+.about-us .phone-img {
     position: relative;
     width: 45px;
     left: 5px;
@@ -810,7 +685,7 @@ input[type="submit"]:hover {
 
 .about-us .text-wrapper-9 {
     color: #47df9f;
-    letter-spacing: -15px;
+    letter-spacing: -18px;
 }
 
 .text-wrapper-8 {
