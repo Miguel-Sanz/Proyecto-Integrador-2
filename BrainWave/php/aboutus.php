@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Sobre Nosotros | BrainWave</title>
+    <title>BrainWave</title>
     <link rel="stylesheet" href="../css/aboutUs.css" />
     <link rel="stylesheet" href="../css/style.css" />
     <style>
@@ -200,41 +200,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>
             <div class="overlap-5">
                 <div class="overlap-6">
-                    <div class="pics">
-                        <div class="overlap-7">
-                            <p class="emb-rcate-en-un">
-                                EMBÁRCATE EN UN VIAJE DE DESCUBRIMIENTO Y CONEXIÓN EN &#39;MENTES EN SINTONÍA&#39;. ESTE FESTIVAL
-                                ÚNICO CELEBRA LA DIVERSIDAD Y CREATIVIDAD DE LAS MENTES AFECTADAS POR EL TDAH. ÚNETE A NOSOTROS PARA
-                                UNA JORNADA LLENA DE INSPIRACIÓN, APRENDIZAJE Y SOLIDARIDAD
-                            </p>
-                            <img class="right-column" src="../img/right-column.png" />
-                        </div>
-                    </div>
-                    <img class="rectangle-23" src="../img/rectangle-206.svg" />
-                    <img class="rectangle-24" src="../img/rectangle-207.svg" />
-                    <img class="rectangle-25" src="../img/rectangle-208.svg" />
-                    <p class="element-de-octubre-dia">27 DE OCTUBRE<br />DIA DEL TDAH</p>
-                    <p class="mentes-en-sinton-a">
-                        <span class="span">Mentes en Sintonía: Un Festival de Conexión TDAH<br /></span>
-                        <span class="text-wrapper-4"><br /></span>
-                    </p>
-                    <p class="libera-tu-potencial">LIBERA TU POTENCIAL: TDAH EN FOCO</p>
-                    <div class="left-column">
-                        <div class="overlap-8">
-                            <img class="brainwave-descubre" src="../img/brainwave-descubre-nuestros-proyectos-y-nete-a-ellos.svg" />
-                            <div class="proyectos-brain-wave">PROYECTOS BRAIN WAVE</div>
-                        </div>
-                    </div>
+                    <img class="rectangle-23" src="../img/philosophy.png" />
                 </div>
+                <div class="proyectos-brain-wave">PROYECTOS BRAIN WAVE</div>
+
                 <div class="boton-primario-about">
-                    <div class="i-nscribete">INSCRÍBETE</div>
+                    <a href="register.php"><div class="i-nscribete">Descubre Más!</div></a>
                 </div>
                 <p class="bienvenido-a-la">
-                    BIENVENIDO A LA PLATAFORMA DONDE LA INNOVACIÓN Y LA CONEXIÓN SE ENCUENTRAN: BRAINWAVE. TE INVITAMOS A
-                    EXPLORAR NUESTROS PROYECTOS DISEÑADOS EXCLUSIVAMENTE PARA TI. DESDE EVENTOS INSPIRADORES HASTA EXPERIENCIAS
-                    EDUCATIVAS, CADA PROYECTO ESTÁ DISEÑADO PARA CELEBRAR LA DIVERSIDAD Y DESATAR EL POTENCIAL ÚNICO DE LAS
-                    MENTES AFECTADAS POR EL TDAH. ÚNETE A NOSOTROS EN ESTE EMOCIONANTE VIAJE HACIA EL DESCUBRIMIENTO PERSONAL Y
-                    EL CRECIMIENTO COLECTIVO. ¡DESCUBRE LO QUE PODEMOS LOGRAR JUNTOS!
+                    Mediante la colaboración estrecha, el robusto apoyo comunitario y una metodología ajustada a las necesidades individuales, BrainWave se esfuerza por convertirse en un faro de esperanza y una fuente inagotable de innovación para aquellos dentro de la comunidad del TDAH.<br><br>
+                    Nos proponemos crear un entorno inclusivo y empoderador donde todos, desde las personas directamente afectadas por este trastorno hasta aquellos que desean contribuir a nuestra causa, puedan encontrar su lugar y sumarse a este emocionante viaje. Nuestro objetivo es trascender las barreras tradicionales, fomentando un espacio donde la diversidad mental no solo se acepte, sino que se celebre como la fuerza poderosa que es, permitiendo a cada individuo alcanzar su máximo potencial.<br><br>
+                    Invitamos a todos a ser parte de esta aventura transformadora, en la cual juntos, paso a paso, construiremos un futuro más comprensivo, inclusivo y lleno de posibilidades para la comunidad del TDAH.
                 </p>
             </div>
             <div class="right-column-2"></div>
@@ -259,31 +235,27 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <img class="persona-2" src="../img/Reloj.png" />
                     <img class="persona-3" src="../img/computer.png" />
                 </div>
-                <p class="bienvenido-a">
-                    BIENVENIDO A BRAINWAVE: DONDE LA INNOVACIÓN ENCUENTRA LA CALMA EN BRAINWAVE, ESTAMOS DEDICADOS A
-                    TRANSFORMAR LA EXPERIENCIA DE QUIENES VIVEN CON TRASTORNO POR DÉFICIT DE ATENCIÓN E HIPERACTIVIDAD (TDAH).
-                    FUNDADA POR UN EQUIPO APASIONADO Y COMPROMETIDO, COMPUESTO POR MIGUEL SANZ, PAULA MOURE Y ARIS KUHS,
-                    NUESTRA MISIÓN ES IR MÁS ALLÁ DE LOS LÍMITES CONVENCIONALES PARA OFRECER SERVICIOS, EVENTOS Y CURSOS
-                    DISEÑADOS ESPECÍFICAMENTE PARA POTENCIAR LAS MENTES CREATIVAS Y BRILLANTES QUE CARACTERIZAN A QUIENES
-                    ENFRENTAN EL TDAH.
+                <p class="bienvenido-a">Bienvenidos a BrainWave, donde la innovación abraza la tranquilidad en un ambiente único y transformador.<br><br>
+                    En BrainWave, nos embarcamos en una misión con corazón y dedicación, enfocados en reimaginar y enriquecer la vida de aquellos que navegan el día a día con el Trastorno por Déficit de Atención e Hiperactividad (TDAH).<br><br>
+                    Este proyecto nace de la visión y el compromiso de Miguel Sanz y Paula Moure, quienes, con un profundo entendimiento de las necesidades y desafíos asociados al TDAH, buscan trascender las convenciones y las limitaciones ordinarias.
                 </p>
             </div>
             <div class="background-6"></div>
             <div class="quote-block">
                 <div class="icon-box">
                     <div class="content-icon-box">
-                        <div><img class="persona-2" src="../img/phone-contact.png" /></div>
+                        <div><img class="phone-img" src="../img/phone-contact.png" /></div>
                         <div class="ll-manos">LLÁMANOS HOY!</div>
                         <p class="p">( +34 ) 123 456 789</p>
                     </div>
                 </div>
                 <p class="brainwave-desatando">
-                    <span class="text-wrapper-9">b</span>
+                    <span class="text-wrapper-9">B</span>
                     <span class="text-wrapper-7">rain</span>
-                    <span class="text-wrapper-9">w</span>
-                    <span class="text-wrapper-7">ave desatando tu </span>
+                    <span class="text-wrapper-9">W</span>
+                    <span class="text-wrapper-7">ave: desatando tu </span>
                     <span class="text-wrapper-8">potencial</span>
-                    <span class="text-wrapper-7">,<br />Transformando <br />tu </span>
+                    <span class="text-wrapper-7"><br />Transformando <br />tu </span>
                     <span class="text-wrapper-8">mundo</span>
                 </p>
             </div>
