@@ -1,8 +1,0 @@
-<?php
-
-require 'conecta.php';
-
-
-
-
-?>
